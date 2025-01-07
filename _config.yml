@@ -46,13 +46,12 @@
 </head>
 <body>
     <div class="container">
-        <h1>Hello, I'm <span>[Your Name]</span> 👋</h1>
+        <h1>Hello, I'm <span>[Mayur Marathe]</span> 👋</h1>
         <p>I am passionate about technology and problem-solving. Here's a glimpse of my work:</p>
 
         <h2>🛠 Projects</h2>
         <ul>
-            <li><strong>Project 1:</strong> A short description of your project1.</li>
-            <li><strong>Project 2:</strong> A short description of another project2.</li>
+            <li><strong>Project 1:</strong> To develop an integrated system for hospitals to efficiently manage operations, optimize patient care, and allocate resources.</li>
         </ul>
 
         <h2>🚀 Skills</h2>
@@ -70,12 +69,12 @@
         </ul>
 
         <h2>Course Details</h2>
-        <p><strong>Course Name:</strong> Algorithmic Problem Solving</p>
-        <p><strong>Course Code:</strong> Course Code Placeholder</p>
-        <p><strong>Name:</strong> Your Name</p>
-        <p><strong>SRN:</strong> Your SRN</p>
-        <p><strong>Course Instructor:</strong> Instructor Name Placeholder</p>
-        <p><strong>University:</strong> Your University Name</p>
+        <p><strong>Course Name:</strong> Algorithms lab</p>
+        <p><strong>Course Code:</strong> 24ECSP205</p>
+        <p><strong>Name:</strong> Mayur Marathe</p>
+        <p><strong>SRN:</strong> 02FE23BCS191</p>
+        <p><strong>Course Instructor:</strong> Vaishali Parab</p>
+        <p><strong>University:</strong>KLE technological university</p>
         <p><strong>Portfolio Topic/Domain:</strong> Google</p>
 
         <p class="quote">“The only way to do great work is to love what you do.” – Steve Jobs</p>
